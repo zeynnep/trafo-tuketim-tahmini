@@ -5,7 +5,7 @@ Gdz ve Adm Elektrik yarışması için trafo bazlı günlük elektrik tüketimi 
 
 ## 🏁 Nihai Sonuç
 
-**493 takım içinden 147. sıra — Private Leaderboard skoru: 1.05084**
+**492 takım içinden 147. sıra — Private Leaderboard skoru: 1.05084**
 
 Public leaderboard'da en iyi denemelerimiz 1.054 civarındaydı; son (riskli) denemede
 public skor 1.55'e sıçramıştı ama bunun **örneklem gürültüsü** olduğu şüphesi
